@@ -1,0 +1,9 @@
+/portrait.jpg
+/portrait.jpeg
+/portrait.png
+/private/
+/previews/
+/.calendar-local.html
+.env
+.venv/
+__pycache__/
